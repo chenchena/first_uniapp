@@ -1,0 +1,52 @@
+
+scroll-view.data-v-3572174a::-webkit-scrollbar{
+	display: none;
+	width: 0!important;
+	height: 0!important;
+	-webkit-apprearance: none;
+	background: transparent;
+	color: transparent;
+}
+.home-item.data-v-3572174a{
+	width: 320rpx;
+	height: 404rpx;
+	background: #FFFFFF;
+	box-shadow: 0rpx 24rpx 38rpx 0rpx rgba(60,128,209,0.09);
+	border-radius: 30rpx;
+	position: relative;
+	margin-bottom: 40rpx;
+}
+.item-main.data-v-3572174a{
+	width: 294rpx;
+	height: 371rpx;
+	/* background: url('https://fawn.xuexiluxian.cn/api/profile/wechat/bgimg/p4.png'); */
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: absolute;
+	top: 15rpx;
+	left: 10rpx;
+}
+.item-content.data-v-3572174a{
+	padding-top: 290rpx;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #FFFFFF;
+}
+.item-content image.data-v-3572174a{
+	width: 30rpx;
+	height: 20rpx;
+}
+.left-arrow.data-v-3572174a{
+	-webkit-transform: rotate(180deg);
+	        transform: rotate(180deg);
+}
+.item-text.data-v-3572174a{
+	font-size: 36rpx;
+	font-family: Microsoft YaHei;
+	font-weight: 400;
+	color: #FFFFFF;
+	padding: 0 20rpx;
+}
+

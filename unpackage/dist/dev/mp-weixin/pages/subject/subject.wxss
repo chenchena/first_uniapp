@@ -1,0 +1,181 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* 消除滚动条 */
+scroll-view.data-v-66de5760 ::-webkit-scrollbar{
+		display: none;
+		width: 0 !important;
+		height: 0 !important;
+		-webkit-appearance: none;
+		background: transparent;
+		color: transparent;
+}
+.subject-swiper.data-v-66de5760{
+		height: auto;
+}
+.subject.data-v-66de5760{
+		position: relative;
+		width: 100vw;
+		background-color: #f0f3f7;
+		box-sizing: border-box;
+}
+.subject-content.data-v-66de5760{
+		width: 100%;
+		padding: 0 37rpx;
+		box-sizing: border-box;
+}
+.dots.data-v-66de5760{
+		height: 30rpx;
+		text-align: center;
+		font-size: 32rpx;
+		font-weight: 500;
+		color: #344356;
+}
+.subject-common.data-v-66de5760{
+		padding-bottom: 50rpx;
+}
+.subject-check.data-v-66de5760{
+		position: fixed;
+		bottom: 10rpx;
+		left: 0;
+		display: flex;
+		justify-content: space-around;
+		align-items: center;
+}
+.check-btn.data-v-66de5760{
+		width: 311rpx;
+		height: 80rpx;
+		line-height: 80rpx;
+		border-radius: 40rpx;
+		color: #FFFFFF;
+		background-color: rgb(90, 103, 247);
+		margin-left: 55rpx;
+		text-align: center;
+}
+.next.data-v-66de5760{
+		background-color: rgb(90, 139, 245);
+}
+

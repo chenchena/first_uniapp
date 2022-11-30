@@ -1,0 +1,1 @@
+<view class="myVideo data-v-74515c33"><video class="video-content data-v-74515c33" src="{{videoUrl}}" controls="{{true}}" enable-play-gesture="{{true}}"></video></view>

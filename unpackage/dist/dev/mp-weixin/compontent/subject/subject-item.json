@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cmder-m-d-parser-highlight": "/components/cmder-MDParserHighlight/index"
+  },
+  "component": true
+}

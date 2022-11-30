@@ -1,0 +1,60 @@
+
+scroll-view.data-v-040f2c2c ::-webkit-scrollbar{
+	display: none;
+	width: 0 !important;
+	height: 0 !important;
+	-webkit-appearance:none;
+	background: transparent;
+	color: transparent;
+}
+.initerview-top.data-v-040f2c2c{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 115rpx;
+}
+.status-bar.data-v-040f2c2c{
+	width: 100vw;
+	height: 64rpx;
+}
+.initerview-title.data-v-040f2c2c{
+	width: 100vw;
+	height: 51rpx;
+	text-align: center;
+	line-height: 51rpx;
+}
+.question.data-v-040f2c2c{
+	width: 100vw;
+	height: 100vh;
+	background: url("https://fawn.xuexiluxian.cn/api/profile/wechat/bgimg/question-bg.png");
+}
+.question-content.data-v-040f2c2c{
+	padding: 0 35rpx;
+}
+.question-header.data-v-040f2c2c{
+	width: 680rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+	margin-bottom: 30rpx;
+	background-color: #FFFFFF;
+	border-radius: 45rpx;
+	position: relative;
+	margin-top: 20rpx;
+}
+.question-header input.data-v-040f2c2c{
+	width: 680rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+	font-size: 30rpx;
+	font-weight: 400;
+	text-align: center;
+}
+.question-search.data-v-040f2c2c{
+	width: 36rpx;
+	height: 38rpx;
+	position: absolute;
+	top: 20rpx;
+	right: 30rpx;
+}
+

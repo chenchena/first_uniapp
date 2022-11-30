@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "my-video": "/compontent/process/Myvideo"
+  },
+  "component": true
+}
