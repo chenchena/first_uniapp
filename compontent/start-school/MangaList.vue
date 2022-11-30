@@ -59,8 +59,8 @@
 					})
 					return
 				} else if(type == "3") {
-					//签署协议
-					url = ""
+					//签署协议				
+					url = "../../pages/sign-contract/sign-contract"
 				}
 				uni.navigateTo({
 					url: url

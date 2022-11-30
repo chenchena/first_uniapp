@@ -11,3 +11,26 @@ export function getStuProtocol(){
 		}
 	})
 }
+
+// 查询已签署协议（按班级id查）
+export function protocolInfo(data){
+	return $http.request({
+		method: 'GET',
+		url: `/wechat/stuProtocol/info/${data.classId}`,
+		header: {
+			'token': uni.getStorageSync('token')
+		}
+	})
+}
+
+// 查询已签署协议（按班级id查）
+export function signClassProtocol(data){
+	return $http.request({
+		method: 'POST',
+		url: `/wechat/stuProtocol/signClassProtocol`,
+		header: {
+			'token': uni.getStorageSync('token')
+		},
+		data
+	})
+}

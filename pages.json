@@ -57,8 +57,7 @@
                 "enablePullDownRefresh": true,
 				"navigationStyle":"custom",
                 "navigationBarTitleText": "商品列表"
-            }
-            
+            }            
         }
         ,{
             "path" : "pages/start-school/start-school",
@@ -67,8 +66,7 @@
                 "navigationBarTitleText": "",
 				"navigationStyle":"custom",
                 "enablePullDownRefresh": false
-            }
-            
+            }            
         }
         ,{
             "path" : "pages/enter-school/enter-school",
@@ -77,8 +75,7 @@
                 "navigationBarTitleText": "",
 				"navigationStyle":"custom",
                 "enablePullDownRefresh": false
-            }
-            
+            }            
         }
         ,{
             "path" : "pages/notice-content/notice-content",
@@ -87,8 +84,7 @@
                 "navigationBarTitleText": "",
 				"navigationStyle":"custom",
                 "enablePullDownRefresh": false
-            }
-            
+            }            
         }
         ,{
             "path" : "pages/consulting-help/consulting-help",
@@ -97,8 +93,7 @@
                 "navigationBarTitleText": "",
 				"navigationStyle":"custom",
                 "enablePullDownRefresh": false
-            }
-            
+            }            
         }
         ,{
             "path" : "pages/subject/subject",
@@ -109,8 +104,7 @@
                 "enablePullDownRefresh": false,
 				"backgroundColor":"#f0f3f7",
 				"scrollIndicator": "none"
-            }
-            
+            }            
         }
         ,{
             "path" : "pages/show-manage/show-manage",
@@ -119,8 +113,25 @@
                 "navigationBarTitleText": "",
 				"navigationStyle":"custom",
                 "enablePullDownRefresh": false
-            }
-            
+            }            
+        }
+		,{
+            "path" : "pages/sign-canvas/sign-canvas",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+				"navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }            
+        }
+        ,{
+            "path" : "pages/sign-contract/sign-contract",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+				"navigationStyle":"custom",
+                "enablePullDownRefresh": false
+            }            
         }
     ],
 	"globalStyle": {
